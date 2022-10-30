@@ -28,7 +28,8 @@ This is avaliable for the following platforms:
 Steps:
 1. Create a free Deezer account: https://www.deezer.com/
 2. Migrate the playlists you want from your online service to Deezer with TuneMyMusic: https://www.tunemymusic.com
-3. Get the "share" link in Deezer:  ![](https://i.imgur.com/I9T1zcx.png)
+3. Get the "share" link in Deezer:  
+  ![](https://i.imgur.com/I9T1zcx.png)
 
 4. On Windows --> EXE to download the playlist from Deezer: https://mega.nz/file/tE8zRSjZ#qods40oZYCn19Q4jCzWZlRWk1clwTgIg07iPc4M-cdY
 5. Paste on the searchbox the Deezer playlist we got on step 3:  
